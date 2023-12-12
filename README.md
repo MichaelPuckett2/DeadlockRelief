@@ -1,5 +1,5 @@
 # DeadlockRelief
-This is an example of a deadlock and an example, in WPF, of how to possibly hack past it, but not recommended for normal use cases.
+This is an example of a deadlock and an example, in WPF, of how to possibly **HACK** past it, but not recommended for normal use cases.
 
 Run the WPF app, look at the code behind in the MainWindow (MainWindow.xaml.cs) for the methods and some verbage on what's happening.
 
